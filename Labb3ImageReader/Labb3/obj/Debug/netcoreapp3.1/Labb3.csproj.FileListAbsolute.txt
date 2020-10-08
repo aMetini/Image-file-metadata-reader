@@ -1,0 +1,11 @@
+/Users/ambermetini/Projects/Labb3/Labb3ImageReader/Labb3/bin/Debug/netcoreapp3.1/Labb3.deps.json
+/Users/ambermetini/Projects/Labb3/Labb3ImageReader/Labb3/bin/Debug/netcoreapp3.1/Labb3.runtimeconfig.json
+/Users/ambermetini/Projects/Labb3/Labb3ImageReader/Labb3/bin/Debug/netcoreapp3.1/Labb3.runtimeconfig.dev.json
+/Users/ambermetini/Projects/Labb3/Labb3ImageReader/Labb3/bin/Debug/netcoreapp3.1/Labb3.dll
+/Users/ambermetini/Projects/Labb3/Labb3ImageReader/Labb3/bin/Debug/netcoreapp3.1/Labb3.pdb
+/Users/ambermetini/Projects/Labb3/Labb3ImageReader/Labb3/obj/Debug/netcoreapp3.1/Labb3.AssemblyInfoInputs.cache
+/Users/ambermetini/Projects/Labb3/Labb3ImageReader/Labb3/obj/Debug/netcoreapp3.1/Labb3.AssemblyInfo.cs
+/Users/ambermetini/Projects/Labb3/Labb3ImageReader/Labb3/obj/Debug/netcoreapp3.1/Labb3.csproj.CoreCompileInputs.cache
+/Users/ambermetini/Projects/Labb3/Labb3ImageReader/Labb3/obj/Debug/netcoreapp3.1/Labb3.dll
+/Users/ambermetini/Projects/Labb3/Labb3ImageReader/Labb3/obj/Debug/netcoreapp3.1/Labb3.pdb
+/Users/ambermetini/Projects/Labb3/Labb3ImageReader/Labb3/obj/Debug/netcoreapp3.1/Labb3.genruntimeconfig.cache
